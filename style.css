@@ -37,4 +37,8 @@ span
     text-align: center;
     color: whitesmoke;
 }
-
+.midd{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
