@@ -1,0 +1,40 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0;
+}
+span
+ {
+     color: rgb(238, 255, 0);
+ }
+ h1{
+     font-size: 50px;
+ }
+ .noo
+ {
+     width: 50%;
+     padding-left: 5%;
+ }
+ .half-width
+ {
+     display: flex;
+     margin-bottom: 150px;
+ }
+ 
+.noo img{
+    width: 80%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.button{
+    background-image: linear-gradient(orange,red);
+    display: inline-block;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 40px ;
+    border-radius: 5px;
+    text-align: center;
+    color: whitesmoke;
+}
+
